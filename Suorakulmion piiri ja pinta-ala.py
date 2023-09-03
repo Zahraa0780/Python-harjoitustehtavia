@@ -10,4 +10,4 @@ pinta_ala = kanta * korkeus
 
 # Tulosta piiri ja pinta-ala
 print("Suorakulmion piiri on:", piiri)
-print("Suorakulmion pinta-ala on:", pinta_ala)
+print("Suorakulmion pinta-ala on:", pinta_al
